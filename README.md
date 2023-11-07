@@ -94,20 +94,37 @@ Begitu seterusnya, dikerjakan pada lembar jawaban kertas atau di laptop masing-m
 
 
 Kemudian hasilnya diupload di ecampus, atau dikumpulkan lembar jawabannya
-![Screenshot (253)](https://github.com/Hilmyramzy/lab6_mobile/assets/115677769/8300a459-8bdc-434b-8b95-8bdb68c5a368)
-![Screenshot (254)](https://github.com/Hilmyramzy/lab6_mobile/assets/115677769/bf347ae0-a2d4-409c-bdb7-a94720ad3216)
-![Screenshot (255)](https://github.com/Hilmyramzy/lab6_mobile/assets/115677769/8f2b6668-67a0-4852-b314-251d7753b3f0)
-![Screenshot (256)](https://github.com/Hilmyramzy/lab6_mobile/assets/115677769/79b86cef-a8a6-4618-8070-729fd1aa2c9d)
-![Screenshot (257)](https://github.com/Hilmyramzy/lab6_mobile/assets/115677769/2d7d6d23-7da4-473c-9142-0ee5e8171def)
-![Screenshot (258)](https://github.com/Hilmyramzy/lab6_mobile/assets/115677769/935ba6d5-c4f2-437d-96c3-d76e88917620)
-![Screenshot (259)](https://github.com/Hilmyramzy/lab6_mobile/assets/115677769/a5cfdf74-c8f1-4165-88db-152f7231c30f)
-![Screenshot (260)](https://github.com/Hilmyramzy/lab6_mobile/assets/115677769/bb7a38ef-eed5-434c-aff7-ecec31e9efe5)
-![Screenshot (261)](https://github.com/Hilmyramzy/lab6_mobile/assets/115677769/2f55d6f2-c438-4a07-960f-dbe81f7f43aa)
-=====================Hasil run=============================
-![moba](https://github.com/Hilmyramzy/lab6_mobile/assets/115677769/bf697362-3b90-4379-a522-d8221e7d21d5)
 
-Dengan Limit angka 987
-![Gambar WhatsApp 2023-10-31 pukul 15 15 21_ac411426](https://github.com/Hilmyramzy/lab6_mobile/assets/115677769/47cd984f-2fcf-4aad-9aad-2676eae63930)
+![Screenshot (270)](https://github.com/Hilmyramzy/lab6_mobile/assets/115677769/087f7c09-096c-42d3-bc45-8ce35cf5f913)
+![Screenshot (271)](https://github.com/Hilmyramzy/lab6_mobile/assets/115677769/fe37f561-5080-482e-b591-1465f861dff2)
+![Screenshot (272)](https://github.com/Hilmyramzy/lab6_mobile/assets/115677769/5f3ade31-c285-4bc0-9c19-5a0518ef480b)
+![Screenshot (273)](https://github.com/Hilmyramzy/lab6_mobile/assets/115677769/0cee7ef1-17c6-4d57-a719-503792b9ff68)
+![Screenshot (274)](https://github.com/Hilmyramzy/lab6_mobile/assets/115677769/3c36eb88-2774-4e6f-bd3d-4be88c19c904)
+![Screenshot (275)](https://github.com/Hilmyramzy/lab6_mobile/assets/115677769/bfcb4c53-ff56-40aa-825e-d5a934f1cfd6)
+![Screenshot (276)](https://github.com/Hilmyramzy/lab6_mobile/assets/115677769/09240f30-2bec-4c82-a4e7-e02dc160906b)
+![Screenshot (277)](https://github.com/Hilmyramzy/lab6_mobile/assets/115677769/b95ea0bf-a19c-4982-8322-efd042667d8f)
+![Screenshot (278)](https://github.com/Hilmyramzy/lab6_mobile/assets/115677769/b768869d-d234-4a3b-ae79-8a783a8e4d2e)
+![Screenshot (279)](https://github.com/Hilmyramzy/lab6_mobile/assets/115677769/0af5dc35-32e5-47a3-b0bc-84495d9fbc93)
+
+
+
+
+
+
+
+
+
+================Hasil run=======================
+![Gambar WhatsApp 2023-11-07 pukul 07 36 11_d9df1d4e](https://github.com/Hilmyramzy/lab6_mobile/assets/115677769/66b4d665-8e1a-4dac-9547-f027bd02723c)
+
+==========masukan limit===========
+![Gambar WhatsApp 2023-11-07 pukul 07 43 42_ed238e07](https://github.com/Hilmyramzy/lab6_mobile/assets/115677769/515e9ada-38bf-4ef5-8399-0fc1768a5533)
+
+
+
+
+
+
 
 
 
