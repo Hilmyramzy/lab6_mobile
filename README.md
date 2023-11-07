@@ -104,7 +104,8 @@ Kemudian hasilnya diupload di ecampus, atau dikumpulkan lembar jawabannya
 ![Screenshot (276)](https://github.com/Hilmyramzy/lab6_mobile/assets/115677769/09240f30-2bec-4c82-a4e7-e02dc160906b)
 ![Screenshot (277)](https://github.com/Hilmyramzy/lab6_mobile/assets/115677769/b95ea0bf-a19c-4982-8322-efd042667d8f)
 ![Screenshot (278)](https://github.com/Hilmyramzy/lab6_mobile/assets/115677769/b768869d-d234-4a3b-ae79-8a783a8e4d2e)
-![Screenshot (279)](https://github.com/Hilmyramzy/lab6_mobile/assets/115677769/0af5dc35-32e5-47a3-b0bc-84495d9fbc93)
+![Screenshot (280)](https://github.com/Hilmyramzy/lab6_mobile/assets/115677769/eeea122e-1ad8-40cf-a511-5fea5be8d7bd)
+
 
 CODE :
 #Actifity Main
@@ -321,6 +322,10 @@ resources>
 
 
 ================Hasil run=======================
+
+![Gambar WhatsApp 2023-11-07 pukul 08 07 30_fe5eb96e](https://github.com/Hilmyramzy/lab6_mobile/assets/115677769/92c00873-da23-4972-bdcb-5feb4f79b7ad)
+
+
 ![Gambar WhatsApp 2023-11-07 pukul 07 36 11_d9df1d4e](https://github.com/Hilmyramzy/lab6_mobile/assets/115677769/66b4d665-8e1a-4dac-9547-f027bd02723c)
 
 ==========masukan limit===========
